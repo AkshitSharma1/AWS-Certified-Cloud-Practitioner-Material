@@ -44,6 +44,11 @@ For the most up-to-date and official information about the exam, please refer to
 
 3. **Practice Tests:**  To see how much you have actually learnt
 
+
+## Other Helpful Material-
+1. FreeCodeCamp.org's Youtube Video for the exam -  [link](https://www.youtube.com/watch?v=SOTamWNgDKc)
+2.  Stephane notes - [link](https://www.udemy.com/course/aws-certified-cloud-practitioner-new/)
+
 <br>
 <div align="center">
 
