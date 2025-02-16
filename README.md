@@ -5,7 +5,9 @@
 
 <img src="https://img-c.udemycdn.com/course/750x422/5487088_e392_5.jpg" alt="AWS Cloud" style="width:100%;">
 
-Github repo containing preparatory material (short & long notes, practice tests) for AWS Certified Cloud Practitioner Exam (AWS CLF-02). Connect with me on-
+Github repo containing preparatory material (short & long notes, practice tests) for AWS Certified Cloud Practitioner Exam (AWS CLF-02). 
+
+If you found this repo helpful, please do consider starring it. Thank you! :)
 
 [![GitHub Follow](https://img.shields.io/github/followers/akshitsharma1?label=akshitsharma1&style=plastic&logo=github&color=green)](https://github.com/akshitsharma1)   [![LinkedIn Badge](https://img.shields.io/badge/akshitsharma1-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/akshitsharma1/)
 
